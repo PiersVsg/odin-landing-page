@@ -1,6 +1,6 @@
 # Odin Project #2: Landing Page
 
-Lien: piersvsg.github.io/odin-landing-page
+Lien: https://piersvsg.github.io/odin-landing-page/
 
 Reproduction d’une landing page depuis une image donnée en utilisant le Modèle de boîte CSS
 
